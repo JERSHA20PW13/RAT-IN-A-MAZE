@@ -7,7 +7,8 @@ CONTRIBUTORS :
 3. TRISHA . M (20PW39)
 
 
-WELCOME TO RAT IN A MAZE
+	WELCOME TO RAT IN A MAZE
+
 		RULES TO PLAY
 
 1. The player will be shown a maze of order 6 x 6.
