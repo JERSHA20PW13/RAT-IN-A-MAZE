@@ -126,7 +126,6 @@ int main(int argc,char **argv)
 
     login();
 
-    j:
     int rati=0,ratj=0,wc=0,ch=0;
     int maze[N][N],l[N][N];
 
