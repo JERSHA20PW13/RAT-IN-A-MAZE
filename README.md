@@ -11,6 +11,7 @@ CONTRIBUTORS :
 
 		RULES TO PLAY
 
+
 1. The player will be shown a maze of order 6 x 6.
 2. There will be a rat at upper left most block.
 3. The rat starts from source and reach its destination.
